@@ -4,7 +4,7 @@
 [![Status: Completed](https://img.shields.io/badge/Status-Completed-059669?style=flat-square)](https://github.com)
 [![Linux: Ubuntu 24.04 LTS](https://img.shields.io/badge/Environment-Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com)
 
-Welcome to the **Cloud Computing Laboratory** repository. This repository contains laboratory experiments, benchmarking suites, container definitions, telemetry logs, and performance analyses evaluating virtualization paradigms and cloud infrastructure performance.
+This experiment contains laboratory experiments, benchmarking suites, container definitions, telemetry logs, and performance analyses evaluating virtualization paradigms and cloud infrastructure performance.
 
 ---
 
